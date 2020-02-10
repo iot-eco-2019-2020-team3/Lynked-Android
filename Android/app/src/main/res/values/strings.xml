@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lynked</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IoT Team3</string>
+    <string name="nav_header_subtitle">iot.eco.2019.2020.team3@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="default_notification_channel_id">Connected_Students_CHANNEL_ID</string>
+    <string name="channel_name">Connected Students Channel</string>
+    <string name="channel_description">Connected Students Channel Description</string>
+    <string name="open_slack">Open Slack</string>
+    <string name="cancel">Cancel</string>
+    <string name="button_start">Start</string>
+
+
+</resources>
