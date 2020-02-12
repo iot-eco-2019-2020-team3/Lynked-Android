@@ -7,11 +7,14 @@ University of applied Sciences Esslingen 2020
 
 
 prerequisite:
+
 JAVA-JDK8
+
 Install: Android Studio
 
 
-Open the Project: 
+Open the Project:
+
 Change the URL in the ConnectedStudents-APP/Android/app/src/main/java/com/iotteam3/ConnectedStudents/HttpTask.java 
  
-Deploy it to device
+Deploy it to your device
